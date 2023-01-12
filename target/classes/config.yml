@@ -1,0 +1,6 @@
+global-chat-prefix: ""
+rp-chat-prefix: "&c[RP]&r "
+rp-chat-distance: 50
+
+console-not-player: "&cOnly players can use this command."
+chat-channel-changed: "&7You have switched your chat channel to %channel%."

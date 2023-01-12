@@ -1,0 +1,11 @@
+name: ${project.name}
+main: lol.suicide.rpchat.RPChat
+author: suicide#0001
+version: ${project.version}
+description: ${project.description}
+website: ${project.website}
+depend: [Factions]
+commands:
+  rp:
+    usage: /<command>
+    description: Switch chat channels between global and local.

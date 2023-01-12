@@ -1,0 +1,11 @@
+name: RPChat
+main: lol.suicide.rpchat.RPChat
+author: suicide#0001
+version: 1.0-SNAPSHOT
+description: A simple proximity chat switcher.
+website: ${project.website}
+depend: [Factions]
+commands:
+  rp:
+    usage: /<command>
+    description: Switch chat channels between global and local.
